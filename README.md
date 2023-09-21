@@ -43,6 +43,29 @@ O Amazon API Gateway é um serviço gerenciado que permite que desenvolvedores c
 O API Gateway administra todas as tarefas envolvidas no recebimento e processamento de até centenas de milhares de chamadas de API simultâneas, inclusive gerenciamento de tráfego, suporte de CORS, controle de autorização e acesso, com fluxo controlado, monitoramento e gerenciamento de versões de API. O API Gateway não tem taxas mínimas ou custos antecipados. Você paga apenas pelas chamadas de API recebidas e pela quantidade transferida de dados de saída. Além disso, com o modelo de definição de preço em camadas do API Gateway, você pode reduzir os custos à medida que seu uso da API é escalado.
 
 # CI/CD
+Com base no modelo de arquitetura proposta para a empresa e pensando em modernizar todo o processo foi impletado a esteira de CI/CD Continuous Integration/Continuous Delivery. Essa implantação te como objetivo acelera o desenvolvimento automatizando o trabalho manual de validação e implantação de alterações na base de código. Pensando nisso vamos utilizar os seguintes serviços da AWS para construção da esteira:
+
+
+- AWS CodePipeline
+  
+O AWS CodePipeline é um serviço totalmente gerenciado de entrega contínua que ajuda a automatizar pipelines de lançamento para oferecer atualizações rápidas e confiáveis de aplicações e infraestruturas.
+
+- AWS CodeCommit
+  
+O AWS CodeCommit é um serviço de controle de código-fonte totalmente gerenciado, seguro e altamente escalável que hospeda repositórios privados do Git.
+
+- AWS CodeBuild
+O AWS CodeBuild é um serviço de integração contínua totalmente gerenciado que compila código-fonte, executa testes e produz pacotes de software prontos para implantação.
+
+- Amazon ECR
+O Amazon Elastic Container Registry (Amazon ECR) é um registro de contêiner totalmente gerenciado que oferece hospedagem de alta performance para que você possa implantar imagens e artefatos de aplicações de forma confiável em qualquer lugar.
+
+- AWS Lambda
+  
+O AWS Lambda é um serviço de computação sem servidor e orientado a eventos que permite executar código para praticamente qualquer tipo de aplicação ou serviço de backend sem provisionar ou gerenciar servidores.
+
+
+
 
 # Monitoramento e Observabilidade
 
