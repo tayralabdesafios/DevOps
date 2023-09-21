@@ -67,6 +67,7 @@ O Amazon Elastic Container Registry (Amazon ECR) é um registro de contêiner to
 O AWS Lambda é um serviço de computação sem servidor e orientado a eventos que permite executar código para praticamente qualquer tipo de aplicação ou serviço de backend sem provisionar ou gerenciar servidores.
 
 
+img src="![image](https://github.com/tayralabdesafios/DevOps/assets/145468256/73958709-e560-4174-9262-7beb3d7bd7cd)
 
 
 # Monitoramento e Observabilidade
