@@ -68,11 +68,17 @@ img src="![image](https://github.com/tayralabdesafios/DevOps/assets/145468256/73
 
 # Monitoramento e Observabilidade
 
-metrics
-logs
-trace
-alertas
-incidentes
+A observabilidade da AWS permite coletar, correlacionar, agregar e analisar a telemetria na sua rede, na infraestrutura e nas aplicações em ambientes na nuvem, híbridos ou on-premises para que você obtenha insights sobre o comportamento, a performance e a integridade do seu sistema. Esses insights ajudam a detectar, investigar e solucionar os problemas com mais rapidez; e juntamente com a inteligência artificial e machine learning, a reagir, prever e evitar problemas de forma proativa.
+- O Amazon CloudWatch coleta e visualiza logs, métricas e dados de eventos em tempo real em painéis automatizados para otimizar sua infraestrutura e manutenção de aplicações.
+  
+- O AWS X-Ray fornece uma visão completa das solicitações à medida que elas percorrem sua aplicação e filtra dados visuais em cargas úteis, funções, rastreamentos, serviços, APIs e muito mais com movimentos sem código e com pouco código.
+  
+- O Amazon Managed Grafana é um serviço totalmente gerenciado para o Grafana, uma plataforma de análise de código aberto popular que permite consultar, visualizar, entender e receber alertas sobre suas métricas, não importa onde elas estejam armazenadas.
+
+- O Amazon Managed Service for Prometheus é um serviço compatível com o Prometheus que monitora e fornece alertas sobre aplicações em contêiner e infraestrutura em escala. O serviço é integrado ao Amazon Elastic Kubernetes Service (EKS), Amazon Elastic Container Service (ECS) e AWS Distro para OpenTelemetry.
+
+![image](https://github.com/tayralabdesafios/DevOps/assets/145468256/47d6cad7-5722-429f-842d-35671c0df9b4)
+  
 
 # Benefícios
 
