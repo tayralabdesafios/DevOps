@@ -9,7 +9,8 @@ Nesse caso de uso apresentado, vamos falar da porto seguro que é uma empresa de
 
 A Porto Seguro é uma empresa brasileira com mais de 70 anos de mercado e está entre as maiores seguradoras do País, ocupando a primeira posição nos ramos de Seguro Auto e Residência. Atualmente, são mais de 8,4 milhões de clientes únicos, 13 mil funcionários, 12 mil prestadores e 35 mil corretores parceiros. A companhia tem ainda 101 sucursais e escritórios regionais em todo o Brasil. O Grupo Porto Seguro é formado por 27 empresas – entre elas Azul Seguros, Itaú Seguros de Auto e Residência, Porto Seguro Saúde e Porto Seguro Uruguai – que atuam nos mais diversos ramos como seguros, produtos financeiros, serviços de emergência e conveniência, proteção e monitoramento, plano de saúde para Pets, entre outros. Em 2020, o lucro líquido da companhia foi de R$ 1,695,8 milhões.
 
-"[https://exemplo.com/logo.png](https://github.com/tayralabdesafios/DevOps/assets/145468256/02a985b8-7790-4a8c-92a3-64180204360f))"
+![image](https://github.com/tayralabdesafios/DevOps/assets/145468256/10e27929-6eba-4c57-8506-bb8d92623208)
+
 
 ## Regra do Negócio
 
@@ -44,11 +45,12 @@ O Amazon API Gateway é um serviço gerenciado que permite que desenvolvedores c
 
 O API Gateway administra todas as tarefas envolvidas no recebimento e processamento de até centenas de milhares de chamadas de API simultâneas, inclusive gerenciamento de tráfego, suporte de CORS, controle de autorização e acesso, com fluxo controlado, monitoramento e gerenciamento de versões de API. O API Gateway não tem taxas mínimas ou custos antecipados. Você paga apenas pelas chamadas de API recebidas e pela quantidade transferida de dados de saída. Além disso, com o modelo de definição de preço em camadas do API Gateway, você pode reduzir os custos à medida que seu uso da API é escalado.
 
+![image](https://github.com/tayralabdesafios/DevOps/assets/145468256/07454b74-7284-4bf9-a166-c44e6c7c02c7)
+
+
 # CI/CD
 Com base no modelo de arquitetura proposta para a empresa e pensando em modernizar todo o processo foi impletado a esteira de CI/CD Continuous Integration/Continuous Delivery. Essa implantação te como objetivo acelera o desenvolvimento automatizando o trabalho manual de validação e implantação de alterações na base de código. Pensando nisso vamos utilizar os seguintes serviços da AWS para construção da esteira:
 
-
-- AWS CodePipeline
   
 O AWS CodePipeline é um serviço totalmente gerenciado de entrega contínua que ajuda a automatizar pipelines de lançamento para oferecer atualizações rápidas e confiáveis de aplicações e infraestruturas.
 
@@ -63,7 +65,8 @@ O AWS CodePipeline é um serviço totalmente gerenciado de entrega contínua que
 - O AWS Lambda é um serviço de computação sem servidor e orientado a eventos que permite executar código para praticamente qualquer tipo de aplicação ou serviço de backend sem provisionar ou gerenciar servidores.
 
 
-img src="![image](https://github.com/tayralabdesafios/DevOps/assets/145468256/73958709-e560-4174-9262-7beb3d7bd7cd)
+![image](https://github.com/tayralabdesafios/DevOps/assets/145468256/25fa8f78-3ba3-4364-aa16-b153c9cdb584)
+
 
 
 # Monitoramento e Observabilidade
