@@ -9,6 +9,8 @@ Nesse caso de uso apresentado, vamos falar da porto seguro que é uma empresa de
 
 A Porto Seguro é uma empresa brasileira com mais de 70 anos de mercado e está entre as maiores seguradoras do País, ocupando a primeira posição nos ramos de Seguro Auto e Residência. Atualmente, são mais de 8,4 milhões de clientes únicos, 13 mil funcionários, 12 mil prestadores e 35 mil corretores parceiros. A companhia tem ainda 101 sucursais e escritórios regionais em todo o Brasil. O Grupo Porto Seguro é formado por 27 empresas – entre elas Azul Seguros, Itaú Seguros de Auto e Residência, Porto Seguro Saúde e Porto Seguro Uruguai – que atuam nos mais diversos ramos como seguros, produtos financeiros, serviços de emergência e conveniência, proteção e monitoramento, plano de saúde para Pets, entre outros. Em 2020, o lucro líquido da companhia foi de R$ 1,695,8 milhões.
 
+![image](https://github.com/tayralabdesafios/DevOps/assets/145468256/02a985b8-7790-4a8c-92a3-64180204360f)
+
 ## Regra do Negócio
 
 Análisando a estratégias da empresa está o desenvolvimento de uma plataforma de cálculo e subscrição, que viabilize a implementação de vendas cruzadas (cross-sell) dos produtos da Porto Seguro, com abrangência de atuação para negócios de Seguros, Financeiros e Serviços.
@@ -74,3 +76,17 @@ logs
 trace
 alertas
 incidentes
+
+# Benefícios
+
+ As melhorias tecnológicas foram:
+
+- Implementação de API’s para consumo de diversos produtos;
+- Utilização de Machine Learning para os modelos estatísticos;
+- Segmentação por microsserviços;
+- Centralização de vários cálculos complexos em uma única plataforma.
+- Já o para os negócios percebemos a criação de novas estratégias e também o aumento de velocidade significativo para todos os clientes da plataforma, em que os benefícios colhidos por negócios foram:
+
+- Maior agilidade na implementação e lançamento de novos modelos estatísticos;
+- Criação de novas e maiores possibilidades de cross-sell, Up-Sell e retenção de clientes;
+- Implementação e maior velocidade de processamento em lotes de renovação de contratos.”
