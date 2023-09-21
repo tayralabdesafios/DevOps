@@ -1,6 +1,6 @@
 # DevOps
 
-## Solução & Arquitetura Modernização 
+## Solução & Arquitetura
 
 O desenho dessa arquitetura de soluções foi realizado com base no estudo feito para uma aplicação do segmento de uma seguradora.
 Nesse caso de uso apresentado, vamos falar da porto seguro que é uma empresa de segmento de automóvel, residência e empresarial.
